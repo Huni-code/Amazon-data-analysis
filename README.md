@@ -99,20 +99,6 @@ streamlit run dashboard.py
 
 ---
 
-## Project Structure
-
-```
-Amazon-data-analysis/
-├── main.py              # Static analysis (generates 9 figures)
-├── dashboard.py         # Streamlit interactive dashboard
-├── data_processor.py    # Data loading, cleaning, feature engineering
-├── analysis.py          # Analysis functions (correlations, summaries)
-├── config.py            # Settings (bins, exchange rate, paths)
-├── amazon.csv           # Dataset
-├── README.md
-└── images/              # Generated visualizations
-```
-
 ## How to Run
 
 ```bash
